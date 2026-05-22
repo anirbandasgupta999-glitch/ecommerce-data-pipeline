@@ -22,6 +22,25 @@ This project builds a **scalable data pipeline** to automate ingestion, cleaning
 ![Architecture Diagram](diagram.png)
 
 ---
+## AWS S3 Storage
+
+![S3 Bucket](screenshots/s3_bucket_structure.png)
+
+![Processed Data](screenshots/s3_processed_data.png)
+
+---
+
+## Snowflake Data Warehouse
+
+![Snowflake Objects](screenshots/snowflake_database_objects.png)
+
+![Snowflake SQL](screenshots/snowflake_sql_transformation.png)
+
+---
+
+## Airflow Orchestration
+
+![Airflow DAG](screenshots/airflow_dag.png)
 
 ## ⚙️ Tech Stack
 
